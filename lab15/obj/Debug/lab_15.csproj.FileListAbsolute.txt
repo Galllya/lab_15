@@ -1,0 +1,10 @@
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\bin\Debug\lab15.exe.config
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\bin\Debug\lab15.exe
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\bin\Debug\lab15.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\obj\Debug\lab_15.csprojAssemblyReference.cache
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\obj\Debug\lab15.Form1.resources
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\obj\Debug\lab15.Properties.Resources.resources
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\obj\Debug\lab_15.csproj.GenerateResource.cache
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\obj\Debug\lab_15.csproj.CoreCompileInputs.cache
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\obj\Debug\lab15.exe
+C:\Users\bolga\OneDrive\Рабочий стол\LABB_15\lab15\obj\Debug\lab15.pdb
